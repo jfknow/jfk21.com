@@ -6,6 +6,6 @@ deploy:
   provider: surge
   on:
     branch: master
-  domain: jfk21.dk
+  domain: jfk21.com
   project: ./site/
   

@@ -19,7 +19,7 @@ We must also immediately cease all warfare, and aim to reduce and revert the arm
 
 Now is the time to reassess the result of the last 25 years of "spreading freedom and democracy". What has happened? How many people have died? How many resources has been wasted? How much property has been destroyed? How much damage has been done to the environment? Was it worth it? And no we will not ask Madeleine Albright, nor any of the owners of the Military Industrial Complex. Was it worth it to the average citizen?
 
-Now it is time to rebuild, reconnect and forgive (if possible).
+Now it is time to rebuild, reconnect and forgive.
 
 
 

@@ -42,6 +42,6 @@ What we have now is a strong oppressive government and few very influential corp
 
 ----
 
-To obtain a copy of the political programme please write an email to info@jfk21.com
+For more information please write an email to info@jfk21.com
 
 Donations: Account Name: JFK   Account: 5301 0263080   IBAN:  DK4553010000263080    SWIFT: ALBADKKK

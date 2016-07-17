@@ -7,17 +7,17 @@ Title Note  : JFK21
 # A political movement
 
 This is a political party starting out in the next Parliament election in Denmark. 
-At the same time also an attempt to start an international movement that wishes to help spread freedom for human beings and animals through clever legislation.
+At the same time also an attempt to start an international movement that wishes to help spread freedom for human beings and better conditions for animals through clever legislation.
 
-One of the most important components in a successful transition from the current debt based monetary system will be to nationalize all the privately owned or privately controlled central banks to People Owned National Banks, that issue debt free and interest free money directly to each citizen as a Citizen Dividend at a level equal to 4% of GDP (Gross Domestic Product) each year. This will allow the economy to grow on a steady rate, instead of the man-made booms and bust economic cycles we have been so accustomed to. 
+One of the most important components in a successful transition from the current debt based monetary system will be to nationalize all the privately owned or privately controlled central banks to People Owned National Banks, that will issue debt free and interest free money directly to each citizen as a Citizen Dividend at a level equal to 4% of GDP (Gross Domestic Product) each year. This will allow the economy to grow on a steady rate, instead of the man-made booms and bust economic cycles we have been so accustomed to. Even not taking into account all the financial crisis the privately owned central banks have created, they are not even protecting the value of the currency. As two examples: USD has lost 95% of its value since the privately owned Federal Reserve was implemented in 1913. Icelandic kroner has lost 99% of its value since 1965. It is the same case with all other privately owned and controlled central banks.
 
-Clever legislation that transfers legal rights and privileges from the few super rich families and multinational corporations to each individual human being. The aim is that as many decisions as possible is being made as close to where people live as possible, and made by people. 
+We need clever legislation that transfers legal rights and privileges from the few super rich families and multinational corporations to each individual human being. The aim is that as many decisions as possible is being made as close to where people live as possible, and made by people. And if countries join together in communities such as the EU, that it is the democratically elected parliament in the community, that has the authority to legislate.
 
-With deep respect for the nature and the sustainability of the earth in the knowledge that there is enough resources on this planet for everyone, if we look after it properly. And most importantly make an active effort stopping large corporations from their ability to getting away with polluting the planet. 
+With deep respect for the nature and the sustainability of the earth in the knowledge that there is enough resources on this planet for everyone, if we look after it properly. And most importantly make an active effort stopping large corporations from their ability to getting away with polluting and destroying the planet. We need to look into workers rights in multinational corporations and ensure no slavery is taking place. 
 
-We must also immediately cease all warfare, and aim to reduce and revert the arms race and close down as many military bases as possible, as fast as possible. We don't need them. We need to cooperate in peace with each other. it is not only possible, it is necessary for the survival of us all.
+We must also immediately cease all warfare, and aim to reduce and revert the arms race and close down as many military bases as possible, as fast as possible. We don't need them. We need to cooperate in peace with each other. It is not only possible, it is necessary for the survival of us all.
 
-Now is the time to reassess the result of the last 25 years of "spreading freedom and democracy". What has happened? How many people have died? How many resources has been wasted? How much property has been destroyed? How much damage has been done to the environment? Was it worth it? And no we will not ask Madeleine Albright, nor any of the owners of the Military Industrial Complex. Was it worth it to the average citizen?
+Now is the time to reassess the result of the last 25 years of "spreading freedom and democracy". What has happened? How many people have died? How many resources have been wasted? How much property has been destroyed? How much damage has been done to the environment? Was it worth it? And no we will not ask Madeleine Albright, nor any of the owners of the Military Industrial Complex. We will ask, "was it worth it?", to the average citizen?
 
 Now it is time to rebuild, reconnect and forgive.
 
@@ -26,16 +26,15 @@ Now it is time to rebuild, reconnect and forgive.
 
 # Political vision
 
-The political program consists of three parts:
+The political program consists of two parts:
 
-1. The first part is representing some left wing economic policy ideas, where each human being has a right to live a life in dignity, with a place to live and enough food on the table. 
+The first part is representing economic policy ideas that will ensure, that each human being can live a life in dignity, with a place to live, food on the table and all basic needs taken care of, if you are unable yourself for whatever reason. The bureaucratic burden of an ever growing adminsitration is diminished whereever possible and incometaxes are cut and instead tax on consumption and resources are instigated. All within a balanced budget. 
 
-2. The second part is representing some right wing economic policy ideas. 
-By displaying it is possible to do all of those within a balanced budget, we are exposing the current political landscape as incompetent.
+The second part is dedicated to the Freedom of the human beings, from an oppressive growing bureuacracy on the one hand and from few rich families and multinational tax-cheating corporations on the other hand. As much decision making as possible as close to where people live as possible. 
 
-3. The third part, the remaining part and the longest part is dedicated to the Freedom of the human beings, from an oppressive growing bureuacracy on the one hand and from few rich families and multinational tax-cheating corporations on the other hand.
+What we have now is a strong oppressive government and few very influential corporations and thus by definition we have fascism. 
 
-What we have now is a strong oppressive government and few very influential corporations and thus by definition we have fascism. What we will have instead is human freedom. Free of usury, income tax, pollution and war. In short a life in prosperity, creativity, health, welfare and nurture. 
+What we will have instead is human freedom. Free of usury, income tax, pollution and war. In short a life in prosperity, creativity, health, welfare and nurture. 
 
 
 

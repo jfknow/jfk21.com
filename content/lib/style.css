@@ -17,3 +17,15 @@ body.madoko, .madoko .serif {
 }
 
 
+a {
+	text-decoration: none;
+	border-bottom: 3px rgba(255, 247, 45, 0.82) solid;
+	color: #323232;
+}
+
+a:hover {
+	background-color: rgba(255, 247, 45, 0.82);
+	border-top: 2px rgba(255, 247, 45, 0.82) solid;
+}
+
+

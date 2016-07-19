@@ -37,6 +37,13 @@ html {
 	line-height: 1.26;
 }
 
+body {
+    height: 100vh;
+    background-size: cover;
+    overflow: hidden;
+}
+
+
 #border-top, #border-bottom {
 	position: fixed;
 	left: 0px;

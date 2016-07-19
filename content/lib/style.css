@@ -37,10 +37,6 @@ html {
 	line-height: 1.26;
 }
 
-body>*:first-child:before {
-	content: '<div id="border-top"></div><div id="border-bottom"></div>';
-}
-
 #border-top, #border-bottom {
 	position: fixed;
 	left: 0px;

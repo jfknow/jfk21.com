@@ -65,6 +65,16 @@ html {
 }
 
 
+@media screen and (max-width: 44.375em) and (orientation:portrait) {
+	html {
+		border: 10px solid rgb(56,52,66);
+		padding: 1em 0.5em;
+	}
+}
+
+
+
+
 
 
 

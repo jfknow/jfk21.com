@@ -10,6 +10,8 @@ Script		: lib/selection-sharer.js
 
 Script  	: lib/app.js
 
+HTML Meta: property="fb:app_id" content="472993219577084"
+
 HTML Header: <div id="border-top"></div><div id="border-bottom"></div>
 
 [INCLUDE="frontpage.md"]

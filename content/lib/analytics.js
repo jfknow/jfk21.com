@@ -1,18 +1,3 @@
-
-document.addEventListener("DOMContentLoaded", function(event) { 
-  // insert border
-  var body = document.getElementsByTagName("body")[0];
-  
-  var div = document.createElement("div");
-  div.id = "border-top"
-  body.insertBefore(div, body.firstChild);
-  
-  div = document.createElement("div");
-  div.id = "border-bottom"
-  body.insertBefore(div, body.firstChild);
-});
-
-
 // Analytics
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

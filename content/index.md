@@ -4,9 +4,7 @@ Css 		  : lib/style.css
 
 Script    : lib/analytics.js
 
-[INCLUDE="frontpage.md"]
+HTML Header: <div id="border-top"></div><div id="border-bottom"></div>
 
-~ HtmlOnly
-<div id="border-top"></div><div id="border-bottom"></div>
-~
+[INCLUDE="frontpage.md"]
 

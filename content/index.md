@@ -1,10 +1,14 @@
 BibTeX		: False
 
-Css 		  : lib/style.css
+Css         : lib/selection-sharer.css
 
-Script    : lib/app.js
+Css 	    : lib/style.css
 
-Css 		  : https://code.jquery.com/jquery-3.1.0.slim.min.js
+Script 		: https://code.jquery.com/jquery-3.1.0.slim.min.js
+
+Script		: lib/selection-sharer.js
+
+Script  	: lib/app.js
 
 HTML Header: <div id="border-top"></div><div id="border-bottom"></div>
 

@@ -4,7 +4,7 @@ Css         : lib/selection-sharer.css
 
 Css 	    : lib/style.css
 
-Script 		: https://code.jquery.com/jquery-3.1.0.slim.min.js
+Script 		: https://code.jquery.com/jquery-3.1.0.min.js
 
 Script		: lib/selection-sharer.js
 

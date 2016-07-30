@@ -50,6 +50,17 @@ html {
 	top: 0;
 }
 
+.sidelogo{
+	position:relative;
+	left:-220px;
+}
+
+#thelogo{
+	position:fixed;
+	top:0;
+	opacity:0.8;
+}
+
 @media screen and (max-width: 44.375em){
 	html {
 		border: 10px solid rgb(56,52,66);
@@ -60,6 +71,12 @@ html {
 
 	#border-top, #border-bottom {
 		height: 10px;
+	}
+
+	.sidelogo, #thelogo{
+		position: static;
+		text-align: center;
+		opacity:1;
 	}
 
 }
@@ -83,7 +100,14 @@ html {
 	#border-top, #border-bottom{
 		display:none;
 	}
+
+	.sidelogo, #thelogo{
+		position: static;
+		text-align: center;
+		opacity:1;
+	}
 }
+
 
 
 
